@@ -1,0 +1,2 @@
+#pip install "apache-airflow[celery]==3.1.5" --constraint "https://raw.githubusercontent.com/apache/airflow/constraints-3.1.5/constraints-3.10.txt"
+apache-airflow==3.1.5

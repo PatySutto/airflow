@@ -1,0 +1,12 @@
+1 - Ctrl Shift P > wsl: New Window
+
+2 - instalar o airflow 
+
+3 - variavel de ambiente, localiza onde o airflow está instalado 
+    export AIRFLOW_HOME=~/Documents/Codes/airflow_alura
+
+4- airflow standalone - usa o banco deafault do airflow e cria um user e password
+
+5 - Apagar os arquivos airflow.db, simple_auth_manager_passwords.json.generated e a pasta logs para mudanças no airflow.cfg
+
+6 - Documentação - https://airflow.apache.org/docs/apache-airflow/stable/start.html
